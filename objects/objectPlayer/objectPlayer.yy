@@ -1,0 +1,131 @@
+{
+    "id": "688b5ec2-b3ba-45f3-8a1e-0d2fa5a3c777",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "objectPlayer",
+    "eventList": [
+        {
+            "id": "dfd66f6f-bfb4-41a6-825b-878b73226484",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "688b5ec2-b3ba-45f3-8a1e-0d2fa5a3c777"
+        },
+        {
+            "id": "fad6c80f-5f37-4ad1-a4e1-86a6b577d803",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 3,
+            "m_owner": "688b5ec2-b3ba-45f3-8a1e-0d2fa5a3c777"
+        },
+        {
+            "id": "cc3ff738-37a7-47e1-940a-232254755edb",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 37,
+            "eventtype": 5,
+            "m_owner": "688b5ec2-b3ba-45f3-8a1e-0d2fa5a3c777"
+        },
+        {
+            "id": "8dad98a3-801c-4e8c-8e83-797298f27bb7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 39,
+            "eventtype": 5,
+            "m_owner": "688b5ec2-b3ba-45f3-8a1e-0d2fa5a3c777"
+        },
+        {
+            "id": "2d960f42-e528-47f3-8968-1892654d44a5",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 32,
+            "eventtype": 9,
+            "m_owner": "688b5ec2-b3ba-45f3-8a1e-0d2fa5a3c777"
+        },
+        {
+            "id": "12bf80da-4d86-46fc-8cf6-febdc8698ff4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 2,
+            "eventtype": 3,
+            "m_owner": "688b5ec2-b3ba-45f3-8a1e-0d2fa5a3c777"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "2413a527-7940-48ac-aafc-9f47bd72aabd",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "isDeath",
+            "varType": 3
+        },
+        {
+            "id": "4ae4433e-bf11-4886-95fe-d08b37ee05a2",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "deathCount",
+            "varType": 1
+        },
+        {
+            "id": "f958c0bf-f9c7-47dd-b39a-e25fea1bbf7a",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "-0.5",
+            "varName": "angelAddY",
+            "varType": 0
+        }
+    ],
+    "solid": true,
+    "spriteId": "5554bbfe-578d-4961-bee7-588cae6ecf18",
+    "visible": true
+}
