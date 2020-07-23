@@ -14,7 +14,7 @@
         "bc411414-1857-41b8-9b02-c90b10080e35"
     ],
     "filterType": "GMSprite",
-    "folderName": "ono",
+    "folderName": "axe",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

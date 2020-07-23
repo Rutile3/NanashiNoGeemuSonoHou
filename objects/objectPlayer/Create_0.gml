@@ -7,10 +7,10 @@ isYAddSpeed = true;
 xAddSpeed = 0;
 yAddSpeed = 0;
 
-junpAddVspeed = 30 / 256;
+junpAddVspeed = 35 / 256;
 maxJumpVspeed = -3;
 
-fallAddVspeed = 30 / 256;
+fallAddVspeed = 35 / 256;
 maxFallVspeed = 3;
 
 walkingSpeed = 1;
