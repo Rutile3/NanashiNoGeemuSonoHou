@@ -216,7 +216,7 @@
   },
   "parent": {
     "name": "all",
-    "path": "folders/ルーム/all.yy",
+    "path": "folders/ルーム/Stage/all.yy",
   },
   "resourceVersion": "1.0",
   "name": "roomAll001",

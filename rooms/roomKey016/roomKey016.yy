@@ -175,7 +175,7 @@
   },
   "parent": {
     "name": "key",
-    "path": "folders/ルーム/key.yy",
+    "path": "folders/ルーム/Stage/key.yy",
   },
   "resourceVersion": "1.0",
   "name": "roomKey016",
