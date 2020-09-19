@@ -1,18 +1,38 @@
 {
-    "id": "f2e140f5-3064-41d4-902e-50e9e6439851",
+    "id": "e8abbd1a-4647-4b91-b070-0719831df2e1",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "objectAxeDown",
     "eventList": [
         {
-            "id": "9fb78068-5258-4b18-a667-bc5332cd6e04",
+            "id": "3d689ef9-dad0-40f6-8b59-5741150c0d3f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "f2e140f5-3064-41d4-902e-50e9e6439851"
+            "m_owner": "e8abbd1a-4647-4b91-b070-0719831df2e1"
+        },
+        {
+            "id": "3dab2198-eec0-4596-bf37-58b82016285c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "e8abbd1a-4647-4b91-b070-0719831df2e1"
+        },
+        {
+            "id": "2e4a3c75-88b7-4652-960b-f72afd90bb8c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 2,
+            "eventtype": 3,
+            "m_owner": "e8abbd1a-4647-4b91-b070-0719831df2e1"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,21 +53,25 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "ffc09b77-f829-44af-b3a2-100c69630d7d",
+            "id": "24de3d6d-a58e-4bfd-bac6-88e3c03d7c4e",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
+            "listItems": [
+                "instThornTrigger01",
+                "\"Item 1\"",
+                "\"Item 2\""
+            ],
+            "multiselect": true,
             "rangeEnabled": false,
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "noone",
-            "varName": "triggerInstance",
+            "value": "",
+            "varName": "trigger",
             "varType": 5
         },
         {
-            "id": "32f9a29d-6b3c-4c66-9002-05e7a994c75e",
+            "id": "3b596fae-f2a1-4a63-a055-fc271af8762c",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -56,12 +80,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
-            "varName": "addX",
-            "varType": 0
+            "value": "1",
+            "varName": "addY",
+            "varType": 4
         },
         {
-            "id": "48d87e53-2cf3-46ca-a4b5-f4c89854f599",
+            "id": "78776f25-f57b-4db1-8087-d04de8c4561b",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -70,9 +94,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
-            "varName": "addY",
-            "varType": 0
+            "value": "99999",
+            "varName": "disappearCount",
+            "varType": 1
         }
     ],
     "solid": false,

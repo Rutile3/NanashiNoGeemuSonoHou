@@ -1,18 +1,38 @@
 {
-    "id": "715b4a41-33f1-4841-8413-fdfc94c1cc1e",
+    "id": "517907ba-e533-4d80-851d-62e2b29a1ebe",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "objectAxeUp",
     "eventList": [
         {
-            "id": "472dc77d-e80a-4f25-9130-078c2d53ae88",
+            "id": "e9a8cfb1-b14e-4688-a505-57b4c9af5272",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "715b4a41-33f1-4841-8413-fdfc94c1cc1e"
+            "m_owner": "517907ba-e533-4d80-851d-62e2b29a1ebe"
+        },
+        {
+            "id": "221caf26-9c66-4637-bc5b-3799606e85e8",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "517907ba-e533-4d80-851d-62e2b29a1ebe"
+        },
+        {
+            "id": "028b3176-baa4-4252-99f9-51ca46362d2c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 2,
+            "eventtype": 3,
+            "m_owner": "517907ba-e533-4d80-851d-62e2b29a1ebe"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,21 +53,23 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "b5fab140-3a1d-4774-b49f-2a4edf8a9580",
+            "id": "b1273406-8bd5-42aa-925d-5fd1418b3a25",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
-            "listItems": null,
+            "listItems": [
+                
+            ],
             "multiselect": false,
             "rangeEnabled": false,
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "noone",
-            "varName": "triggerInstance",
+            "varName": "trigger",
             "varType": 5
         },
         {
-            "id": "5daafa14-1058-4bb4-b5f0-48c52f820576",
+            "id": "94781a9f-de5c-4c8f-b2df-22f0c7d40ec2",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -56,12 +78,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
-            "varName": "addX",
-            "varType": 0
+            "value": "-1",
+            "varName": "addY",
+            "varType": 4
         },
         {
-            "id": "1693162f-981c-4e96-b354-334f947852e2",
+            "id": "c6a9657f-1297-4959-9c5f-77fac4fe1bad",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -70,9 +92,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
-            "varName": "addY",
-            "varType": 0
+            "value": "99999",
+            "varName": "disappearCount",
+            "varType": 1
         }
     ],
     "solid": false,

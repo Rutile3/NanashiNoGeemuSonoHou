@@ -9,11 +9,15 @@ if (place_meeting(x, y, objectPlayer)) {
 	objectPlayer.isDeath = true;
 }
 
-if (triggerInstance == noone) {
-	return;	
+if (trigger == noone) {
+	return;
 }
 
-if (triggerInstance.isTrigger) {
+if (trigger.isTrigger) {
+	if (count == disappearCount) {
+		instance_destroy();	
+	}
+	
 	x += addX;
-	y += addY;
+	count++;
 }

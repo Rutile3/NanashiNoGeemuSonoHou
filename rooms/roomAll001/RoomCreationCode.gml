@@ -1,5 +1,5 @@
 
-createTilesBlockInstances();
+createTilesDigitalBlockInstances();
 
 tilemapId = layer_tilemap_get_id("TilesThorn");
 tilemapColSize = tilemap_get_width(tilemapId);

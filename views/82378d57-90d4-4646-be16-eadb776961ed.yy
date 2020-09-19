@@ -6,11 +6,7 @@
     "children": [
         "baf78122-c23e-483b-ae9e-d0afb32923e3",
         "19bde558-c554-4d25-a625-3289911545da",
-        "55509fe3-7b8e-43a6-bb17-578a996c1c26",
-        "e034d298-7e44-4791-9769-aac5b55564e2",
-        "953c9404-898e-4de0-8a6c-d28c94b9ec84",
-        "173e07f6-1cb1-4a5c-95fe-edab7cdd54a9",
-        "13595680-1c43-4b17-9d98-74c48f265533"
+        "c2b259bb-53c9-4ef6-8f37-0f9e2e021b76"
     ],
     "filterType": "GMObject",
     "folderName": "block",
