@@ -15,6 +15,9 @@ maxFallVspeed = 3;
 
 walkingSpeed = 1;
 
+isDeath = false;
+deathCount = 0;
+
 isJump = true;
 
 isWalking = true;

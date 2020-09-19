@@ -3,6 +3,7 @@
 
 if (isDeath) {
 	if (deathCount > 30) {
+		deathCount++;
 		room_goto(roomStageTitle);
 	}
 	return;	

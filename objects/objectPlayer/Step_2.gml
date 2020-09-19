@@ -2,14 +2,9 @@
 // You can write your code in this editor
 
 if (isDeath) {
-	if (((deathCount div 20) % 2 == 0)) {
-		sprite_index = spriteNanashiAngel01;
-	}
-	else {
-		sprite_index = spriteNanashiAngel02;
-	}
+	sprite_index = spriteNanashiAngel;
 	y += angelAddY;
-	deathCount++
+	deathCount++;
 	return;
 }
 
