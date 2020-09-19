@@ -8,7 +8,4 @@ function generateLayerAndObjectMap(argument0, argument1) {
 	dsMap[? "object"] = argument1;
 
 	return dsMap;
-
-
-
 }

@@ -7,7 +7,4 @@ function createTilesDigitalBlockInstances() {
 	layerMap[? 1] = "InstancesBlock";
 
 	createTilesBlockInstances(tilemapId, layerMap);
-
-
-
 }

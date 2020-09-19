@@ -24,7 +24,4 @@ function createTilesBlockInstances(argument0, argument1) {
 			instance_create_layer(tmpX, tmpY, lay, objectBlock);
 		}
 	}
-
-
-
 }

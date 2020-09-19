@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spriteBloodAxeDown",
-    "path": "sprites/spriteBloodAxeDown/spriteBloodAxeDown.yy",
+    "name": "spriteBloodAxeRight",
+    "path": "sprites/spriteBloodAxeRight/spriteBloodAxeRight.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"objectChiAxeDown","path":"objects/objectChiAxeDown/objectChiAxeDown.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"objectBloodAxeRight","path":"objects/objectBloodAxeRight/objectBloodAxeRight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,7 +30,7 @@
     "path": "folders/オブジェクト/axe.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objectChiAxeDown",
+  "name": "objectBloodAxeRight",
   "tags": [],
   "resourceType": "GMObject",
 }

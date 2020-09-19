@@ -11,7 +11,4 @@ function createTilesBlock10Instances() {
 	layerMap[? 5] = "InstancesBlock";
 
 	createTilesBlockInstances(tilemapId, layerMap);
-
-
-
 }
