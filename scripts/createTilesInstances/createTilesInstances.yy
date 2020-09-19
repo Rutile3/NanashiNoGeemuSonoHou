@@ -1,8 +1,12 @@
 {
-    "id": "f3bf2acd-7596-46fc-83f3-eaaeecd79edb",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "createTilesInstances",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "createTiles",
+    "path": "folders/スクリプト/createTiles.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "createTilesInstances",
+  "tags": [],
+  "resourceType": "GMScript",
 }

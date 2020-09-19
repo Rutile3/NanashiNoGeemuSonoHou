@@ -1,8 +1,12 @@
 {
-    "id": "48c0f38a-7e00-4059-9f2e-497a29054aad",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "generateLayerAndObjectMap",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "createTiles",
+    "path": "folders/スクリプト/createTiles.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "generateLayerAndObjectMap",
+  "tags": [],
+  "resourceType": "GMScript",
 }

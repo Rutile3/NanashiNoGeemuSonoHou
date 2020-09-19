@@ -1,8 +1,12 @@
 {
-    "id": "703a135b-3c20-43a7-8f25-c1ba23fd9a2e",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "createTilesAxeInstances",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "axe",
+    "path": "folders/スクリプト/createTiles/axe.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "createTilesAxeInstances",
+  "tags": [],
+  "resourceType": "GMScript",
 }
