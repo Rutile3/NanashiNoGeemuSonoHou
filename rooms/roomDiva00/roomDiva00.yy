@@ -71,8 +71,8 @@
   "creationCodeFile": "${project_dir}/rooms/roomDiva000/RoomCreationCode.gml",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_1A96392A","path":"rooms/roomDiva000/roomDiva000.yy",},
-    {"name":"inst_45825828","path":"rooms/roomDiva000/roomDiva000.yy",},
+    {"name":"inst_1A96392A","path":"rooms/roomDiva00/roomDiva00.yy",},
+    {"name":"inst_45825828","path":"rooms/roomDiva00/roomDiva00.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
@@ -100,7 +100,7 @@
     "path": "folders/ルーム/Stage/diva.yy",
   },
   "resourceVersion": "1.0",
-  "name": "roomDiva000",
+  "name": "roomDiva00",
   "tags": [],
   "resourceType": "GMRoom",
 }
