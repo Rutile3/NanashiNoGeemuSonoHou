@@ -32,6 +32,7 @@
     {"id":{"name":"spriteBlock11Tile","path":"sprites/spriteBlock11Tile/spriteBlock11Tile.yy",},"order":5,},
     {"id":{"name":"tilesetBlock10","path":"tilesets/tilesetBlock10/tilesetBlock10.yy",},"order":1,},
     {"id":{"name":"tilesetDigitalBlock","path":"tilesets/tilesetDigitalBlock/tilesetDigitalBlock.yy",},"order":2,},
+    {"id":{"name":"roomDiva01","path":"rooms/roomDiva01/roomDiva01.yy",},"order":1,},
     {"id":{"name":"tilesetDigitalThorn","path":"tilesets/tilesetDigitalThorn/tilesetDigitalThorn.yy",},"order":3,},
     {"id":{"name":"soundJump","path":"sounds/soundJump/soundJump.yy",},"order":0,},
     {"id":{"name":"soundShouten","path":"sounds/soundShouten/soundShouten.yy",},"order":1,},
@@ -102,6 +103,7 @@
     {"name":"roomAll01","path":"rooms/roomAll01/roomAll01.yy",},
     {"name":"roomAll02","path":"rooms/roomAll02/roomAll02.yy",},
     {"name":"roomDiva00","path":"rooms/roomDiva00/roomDiva00.yy",},
+    {"name":"roomDiva01","path":"rooms/roomDiva01/roomDiva01.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/スプライト.yy","order":0,"resourceVersion":"1.0","name":"スプライト","tags":[],"resourceType":"GMFolder",},
