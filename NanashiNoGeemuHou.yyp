@@ -46,6 +46,7 @@
     {"id":{"name":"createTilesBlock10Instances","path":"scripts/createTilesBlock10Instances/createTilesBlock10Instances.yy",},"order":1,},
     {"id":{"name":"createTilesDigitalBlockInstances","path":"scripts/createTilesDigitalBlockInstances/createTilesDigitalBlockInstances.yy",},"order":2,},
     {"id":{"name":"fontStageTitle","path":"fonts/fontStageTitle/fontStageTitle.yy",},"order":0,},
+    {"id":{"name":"roomKey01","path":"rooms/roomKey01/roomKey01.yy",},"order":1,},
     {"id":{"name":"objectPlayer","path":"objects/objectPlayer/objectPlayer.yy",},"order":0,},
     {"id":{"name":"objectZanki","path":"objects/objectZanki/objectZanki.yy",},"order":1,},
     {"id":{"name":"objectStageTitle","path":"objects/objectStageTitle/objectStageTitle.yy",},"order":2,},
@@ -104,6 +105,7 @@
     {"name":"roomAll02","path":"rooms/roomAll02/roomAll02.yy",},
     {"name":"roomDiva00","path":"rooms/roomDiva00/roomDiva00.yy",},
     {"name":"roomDiva01","path":"rooms/roomDiva01/roomDiva01.yy",},
+    {"name":"roomKey01","path":"rooms/roomKey01/roomKey01.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/スプライト.yy","order":0,"resourceVersion":"1.0","name":"スプライト","tags":[],"resourceType":"GMFolder",},
