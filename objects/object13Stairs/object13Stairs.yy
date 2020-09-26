@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sprite13Kaidan",
-    "path": "sprites/sprite13Kaidan/sprite13Kaidan.yy",
+    "name": "sprite13Stairs",
+    "path": "sprites/sprite13Stairs/sprite13Stairs.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objectPlayer","path":"objects/objectPlayer/objectPlayer.yy",},"parent":{"name":"object13Kaidan","path":"objects/object13Kaidan/object13Kaidan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objectPlayer","path":"objects/objectPlayer/objectPlayer.yy",},"parent":{"name":"object13Stairs","path":"objects/object13Stairs/object13Stairs.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,7 +30,7 @@
     "path": "folders/オブジェクト.yy",
   },
   "resourceVersion": "1.0",
-  "name": "object13Kaidan",
+  "name": "object13Stairs",
   "tags": [],
   "resourceType": "GMObject",
 }
