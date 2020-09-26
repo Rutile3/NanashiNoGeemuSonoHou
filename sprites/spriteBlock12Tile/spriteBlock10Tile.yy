@@ -60,7 +60,7 @@
     "eventStubScript": null,
     "parent": {"name":"spriteBlock10Tile","path":"sprites/spriteBlock10Tile/spriteBlock10Tile.yy",},
     "resourceVersion": "1.3",
-    "name": "spriteBlock10Tile",
+    "name": "",
     "tags": [],
     "resourceType": "GMSequence",
   },
