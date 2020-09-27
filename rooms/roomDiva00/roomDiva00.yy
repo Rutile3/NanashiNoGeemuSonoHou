@@ -48,7 +48,7 @@
 0,0,0,0,0,20,20,0,0,0,0,0,0,1,1,1,
 4,8,5,4,5,8,4,4,5,4,5,5,8,5,5,8,
 ],},"visible":true,"depth":600,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"TilesBlock","tags":[],"resourceType":"GMRTileLayer",},
-    {"tilesetId":{"name":"tilesetBackground11","path":"tilesets/tilesetBackground11/tilesetBackground11.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":16,"SerialiseHeight":12,"TileSerialiseData":[
+    {"tilesetId":{"name":"tilesetBackground02","path":"tilesets/tilesetBackground02/tilesetBackground02.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":16,"SerialiseHeight":12,"TileSerialiseData":[
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
 2147483648,0,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,1,2147483648,2147483648,2147483648,2147483648,2147483648,
 2147483648,0,2,3,0,2147483648,2147483648,2147483648,2147483648,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
