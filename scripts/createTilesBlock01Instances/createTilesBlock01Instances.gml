@@ -4,11 +4,9 @@ function createTilesBlock01Instances() {
 	tilemapId = layer_tilemap_get_id("TilesBlock");
 
 	layerMap = ds_map_create();
-	layerMap[? 1] = "InstancesBlock";
-	layerMap[? 2] = "InstancesBlock";
-	layerMap[? 3] = "InstancesBlock";
-	layerMap[? 4] = "InstancesBlock";
-	layerMap[? 5] = "InstancesBlock";
+	for (var i = 1; i < 16; i++) {
+		layerMap[? i] = "InstancesBlock";
+	}
 
 	createTilesBlockInstances(tilemapId, layerMap);
 }
