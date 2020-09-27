@@ -36,8 +36,8 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "タイルセット",
-    "path": "folders/タイルセット.yy",
+    "name": "background",
+    "path": "folders/タイルセット/background.yy",
   },
   "resourceVersion": "1.0",
   "name": "tilesetCloud",

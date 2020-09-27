@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3120fde0-2dac-438f-ac22-10cab442487c","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "etc",
-    "path": "folders/スプライト/etc.yy",
+    "name": "background",
+    "path": "folders/スプライト/background.yy",
   },
   "resourceVersion": "1.0",
   "name": "spriteCloud",

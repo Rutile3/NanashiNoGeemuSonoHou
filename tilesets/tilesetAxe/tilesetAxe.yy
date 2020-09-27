@@ -48,8 +48,8 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "タイルセット",
-    "path": "folders/タイルセット.yy",
+    "name": "axe",
+    "path": "folders/タイルセット/axe.yy",
   },
   "resourceVersion": "1.0",
   "name": "tilesetAxe",

@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3c8b6c81-8087-4f86-ae3b-1b79716a6ede","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "thorn",
-    "path": "folders/スプライト/thorn.yy",
+    "name": "axe",
+    "path": "folders/スプライト/axe.yy",
   },
   "resourceVersion": "1.0",
   "name": "spriteThornUp",

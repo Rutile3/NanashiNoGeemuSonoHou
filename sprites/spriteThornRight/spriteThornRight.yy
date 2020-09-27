@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b581ec38-0b4c-4c74-af32-1feed4064c0d","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "thorn",
-    "path": "folders/スプライト/thorn.yy",
+    "name": "axe",
+    "path": "folders/スプライト/axe.yy",
   },
   "resourceVersion": "1.0",
   "name": "spriteThornRight",
