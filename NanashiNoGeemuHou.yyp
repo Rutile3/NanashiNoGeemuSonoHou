@@ -76,7 +76,7 @@
     {"id":{"name":"objectThornDown","path":"objects/objectThornDown/objectThornDown.yy",},"order":8,},
     {"id":{"name":"objectThornLeft","path":"objects/objectThornLeft/objectThornLeft.yy",},"order":9,},
     {"id":{"name":"objectThornTrigger","path":"objects/objectThornTrigger/objectThornTrigger.yy",},"order":0,},
-    {"id":{"name":"tilesetCloud","path":"tilesets/tilesetCloud/tilesetCloud.yy",},"order":0,},
+    {"id":{"name":"tilesetBackground11","path":"tilesets/tilesetBackground11/tilesetBackground11.yy",},"order":0,},
     {"id":{"name":"roomGameStart","path":"rooms/roomGameStart/roomGameStart.yy",},"order":0,},
     {"id":{"name":"roomStageClear","path":"rooms/roomStageClear/roomStageClear.yy",},"order":1,},
     {"id":{"name":"roomStageTitle","path":"rooms/roomStageTitle/roomStageTitle.yy",},"order":2,},
