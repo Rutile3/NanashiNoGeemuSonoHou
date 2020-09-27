@@ -1,3 +1,3 @@
 
-createTilesBlock11Instances();
+createTilesBlock02Instances();
 createTilesAxeInstances();

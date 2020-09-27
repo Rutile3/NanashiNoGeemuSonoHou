@@ -34,7 +34,7 @@
 0,0,0,0,0,0,0,4,4,4,4,4,4,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 ],},"visible":true,"depth":500,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"TilesAxe","tags":[],"resourceType":"GMRTileLayer",},
-    {"tilesetId":{"name":"tilesetBlock11","path":"tilesets/tilesetBlock11/tilesetBlock11.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":16,"SerialiseHeight":12,"TileSerialiseData":[
+    {"tilesetId":{"name":"tilesetBlock02","path":"tilesets/tilesetBlock02/tilesetBlock02.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":16,"SerialiseHeight":12,"TileSerialiseData":[
 0,0,0,0,0,0,0,0,0,0,0,0,20,0,20,0,
 0,0,0,0,0,0,0,0,0,0,0,0,20,20,20,20,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,
@@ -68,7 +68,7 @@
     {"spriteId":null,"colour":4282982448,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":900,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
   "inheritLayers": false,
-  "creationCodeFile": "${project_dir}/rooms/roomDiva000/RoomCreationCode.gml",
+  "creationCodeFile": "${project_dir}/rooms/roomDiva00/RoomCreationCode.gml",
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_1A96392A","path":"rooms/roomDiva00/roomDiva00.yy",},

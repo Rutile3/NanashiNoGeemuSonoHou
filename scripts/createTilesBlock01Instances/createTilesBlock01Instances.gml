@@ -1,5 +1,5 @@
-/// @func createTilesBlock10Instances()
-function createTilesBlock10Instances() {
+/// @func createTilesBlock01Instances()
+function createTilesBlock01Instances() {
 
 	tilemapId = layer_tilemap_get_id("TilesBlock");
 

@@ -6,7 +6,7 @@
     "path": "folders/スクリプト/createTiles/block.yy",
   },
   "resourceVersion": "1.0",
-  "name": "createTilesBlock11Instances",
+  "name": "createTilesBlock01Instances",
   "tags": [],
   "resourceType": "GMScript",
 }

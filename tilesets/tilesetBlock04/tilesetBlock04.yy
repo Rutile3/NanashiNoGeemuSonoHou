@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spriteBlock12Tile",
-    "path": "sprites/spriteBlock12Tile/spriteBlock12Tile.yy",
+    "name": "spriteBlock04Tile",
+    "path": "sprites/spriteBlock04Tile/spriteBlock04Tile.yy",
   },
   "tileWidth": 16,
   "tileHeight": 16,
@@ -52,7 +52,7 @@
     "path": "folders/タイルセット/block.yy",
   },
   "resourceVersion": "1.0",
-  "name": "tilesetBlock12",
+  "name": "tilesetBlock04",
   "tags": [],
   "resourceType": "GMTileSet",
 }

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spriteBlock14",
-    "path": "sprites/spriteBlock14/spriteBlock14.yy",
+    "name": "spriteBlock01_4",
+    "path": "sprites/spriteBlock01_4/spriteBlock01_4.yy",
   },
   "solid": true,
   "visible": true,
@@ -21,9 +21,9 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"objectMoveBlock14","path":"objects/objectMoveBlock14/objectMoveBlock14.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"objectMoveBlock14","path":"objects/objectMoveBlock14/objectMoveBlock14.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":2,"eventType":3,"collisionObjectId":null,"parent":{"name":"objectMoveBlock14","path":"objects/objectMoveBlock14/objectMoveBlock14.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"objectMoveBlock01_4","path":"objects/objectMoveBlock01_4/objectMoveBlock01_4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"objectMoveBlock01_4","path":"objects/objectMoveBlock01_4/objectMoveBlock01_4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":2,"eventType":3,"collisionObjectId":null,"parent":{"name":"objectMoveBlock01_4","path":"objects/objectMoveBlock01_4/objectMoveBlock01_4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [
     {"varType":1,"value":"1","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":null,"multiselect":false,"filters":[
@@ -93,7 +93,7 @@
     "path": "folders/オブジェクト/block.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objectMoveBlock14",
+  "name": "objectMoveBlock01_4",
   "tags": [],
   "resourceType": "GMObject",
 }
