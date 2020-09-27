@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"spriteAxeTile","path":"sprites/spriteAxeTile/spriteAxeTile.yy",},"order":0,},
+    {"id":{"name":"spriteBlock14Tile","path":"sprites/spriteBlock14Tile/spriteBlock14Tile.yy",},"order":8,},
     {"id":{"name":"spriteAxeUp","path":"sprites/spriteAxeUp/spriteAxeUp.yy",},"order":1,},
     {"id":{"name":"spriteAxeRight","path":"sprites/spriteAxeRight/spriteAxeRight.yy",},"order":2,},
     {"id":{"name":"spriteAxeDown","path":"sprites/spriteAxeDown/spriteAxeDown.yy",},"order":3,},
@@ -35,6 +36,7 @@
     {"id":{"name":"tilesetBlock13","path":"tilesets/tilesetBlock13/tilesetBlock13.yy",},"order":7,},
     {"id":{"name":"spriteBlock11Tile","path":"sprites/spriteBlock11Tile/spriteBlock11Tile.yy",},"order":5,},
     {"id":{"name":"tilesetBlock10","path":"tilesets/tilesetBlock10/tilesetBlock10.yy",},"order":1,},
+    {"id":{"name":"tilesetBlock14","path":"tilesets/tilesetBlock14/tilesetBlock14.yy",},"order":8,},
     {"id":{"name":"tilesetDigitalBlock","path":"tilesets/tilesetDigitalBlock/tilesetDigitalBlock.yy",},"order":2,},
     {"id":{"name":"roomDiva01","path":"rooms/roomDiva01/roomDiva01.yy",},"order":1,},
     {"id":{"name":"tilesetDigitalThorn","path":"tilesets/tilesetDigitalThorn/tilesetDigitalThorn.yy",},"order":3,},
