@@ -90,6 +90,7 @@
     {"id":{"name":"tilesetBackground02","path":"tilesets/tilesetBackground02/tilesetBackground02.yy",},"order":0,},
     {"id":{"name":"roomGameStart","path":"rooms/roomGameStart/roomGameStart.yy",},"order":0,},
     {"id":{"name":"roomDiva03","path":"rooms/roomDiva03/roomDiva03.yy",},"order":3,},
+    {"id":{"name":"roomKey02","path":"rooms/roomKey02/roomKey02.yy",},"order":2,},
     {"id":{"name":"roomStageClear","path":"rooms/roomStageClear/roomStageClear.yy",},"order":1,},
     {"id":{"name":"roomStageTitle","path":"rooms/roomStageTitle/roomStageTitle.yy",},"order":2,},
     {"id":{"name":"roomStageTemplate","path":"rooms/roomStageTemplate/roomStageTemplate.yy",},"order":3,},
@@ -119,6 +120,7 @@
     {"name":"roomKey01","path":"rooms/roomKey01/roomKey01.yy",},
     {"name":"roomDiva02","path":"rooms/roomDiva02/roomDiva02.yy",},
     {"name":"roomDiva03","path":"rooms/roomDiva03/roomDiva03.yy",},
+    {"name":"roomKey02","path":"rooms/roomKey02/roomKey02.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/スプライト.yy","order":0,"resourceVersion":"1.0","name":"スプライト","tags":[],"resourceType":"GMFolder",},
