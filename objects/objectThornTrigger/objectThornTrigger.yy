@@ -7,7 +7,10 @@
   "visible": false,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "objectAxeTrigger",
+    "path": "objects/objectAxeTrigger/objectAxeTrigger.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -20,9 +23,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objectPlayer","path":"objects/objectPlayer/objectPlayer.yy",},"parent":{"name":"objectThornTrigger","path":"objects/objectThornTrigger/objectThornTrigger.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [
     {"varType":3,"value":"False","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":null,"multiselect":false,"filters":[
         "GMTileSet",
