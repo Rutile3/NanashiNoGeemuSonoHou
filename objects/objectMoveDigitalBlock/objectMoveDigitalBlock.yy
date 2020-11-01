@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spriteDigitalBlock",
-    "path": "sprites/spriteDigitalBlock/spriteDigitalBlock.yy",
+    "name": "spriteBlock06_01",
+    "path": "sprites/spriteBlock06_01/spriteBlock06_01.yy",
   },
   "solid": true,
   "visible": true,

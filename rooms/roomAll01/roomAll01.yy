@@ -14,6 +14,8 @@
   ],
   "layers": [
     {"instances":[
+        {"properties":[],"isDnd":false,"objectId":{"name":"objectHellsGate06","path":"objects/objectHellsGate06/objectHellsGate06.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":16.0,"y":160.0,"resourceVersion":"1.0","name":"inst_669A3D14","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"object13Stairs06","path":"objects/object13Stairs06/object13Stairs06.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":112.0,"y":0.0,"resourceVersion":"1.0","name":"inst_744D8E49","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"objectPlayer","path":"objects/objectPlayer/objectPlayer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":16.0,"y":160.0,"resourceVersion":"1.0","name":"inst_67AE821B","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"InstancesPlayer","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
@@ -119,8 +121,8 @@
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,4,2147483648,2147483648,
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
 ],},"visible":true,"depth":500,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"TilesThorn","tags":[],"resourceType":"GMRTileLayer",},
-    {"tilesetId":{"name":"tilesetDigitalBlock","path":"tilesets/tilesetDigitalBlock/tilesetDigitalBlock.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":16,"SerialiseHeight":12,"TileSerialiseData":[
-1,1,1,1,1,1,0,3,0,0,1,1,1,1,1,1,
+    {"tilesetId":{"name":"tilesetBlock06","path":"tilesets/tilesetBlock06/tilesetBlock06.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":16,"SerialiseHeight":12,"TileSerialiseData":[
+1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,
 1,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,1,
 1,2147483648,1,2147483648,0,2147483648,2147483648,1,2147483648,2147483648,2147483648,1,2147483648,2147483648,0,1,
 1,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,0,1,
@@ -130,7 +132,7 @@
 1,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,0,0,1,
 1,1,2147483648,2147483648,2147483648,1,2147483648,2147483648,2147483648,1,2147483648,2147483648,2147483648,2147483648,0,1,
 1,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,1,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,0,1,
-1,2,2147483648,1,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,1,2147483648,2147483648,1,
+1,0,2147483648,1,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,1,2147483648,2147483648,1,
 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
 ],},"visible":true,"depth":600,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"TilesBlock","tags":[],"resourceType":"GMRTileLayer",},
     {"instances":[
@@ -192,6 +194,8 @@
     {"name":"inst_6F9BBCB","path":"rooms/roomAll01/roomAll01.yy",},
     {"name":"inst_250D5454","path":"rooms/roomAll01/roomAll01.yy",},
     {"name":"inst_D9A444","path":"rooms/roomAll01/roomAll01.yy",},
+    {"name":"inst_744D8E49","path":"rooms/roomAll01/roomAll01.yy",},
+    {"name":"inst_669A3D14","path":"rooms/roomAll01/roomAll01.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

@@ -14,6 +14,8 @@
   ],
   "layers": [
     {"instances":[
+        {"properties":[],"isDnd":false,"objectId":{"name":"object13Stairs00","path":"objects/object13Stairs00/object13Stairs00.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":48.0,"y":112.0,"resourceVersion":"1.0","name":"inst_1C8430D8","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"objectHellsGate00","path":"objects/objectHellsGate00/objectHellsGate00.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":880.0,"y":80.0,"resourceVersion":"1.0","name":"inst_4E84B99D","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"objectPlayer","path":"objects/objectPlayer/objectPlayer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":48.0,"y":112.0,"resourceVersion":"1.0","name":"inst_1A96392A","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"InstancesPlayer","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
@@ -337,7 +339,6 @@
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
 ],},"visible":true,"depth":700,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"TilesBackground","tags":[],"resourceType":"GMRTileLayer",},
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"object13Stairs","path":"objects/object13Stairs/object13Stairs.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":880.0,"y":80.0,"resourceVersion":"1.0","name":"inst_B7FAC34","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"objectAxeTrigger","path":"objects/objectAxeTrigger/objectAxeTrigger.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":5.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":224.0,"y":48.0,"resourceVersion":"1.0","name":"instAxeTrigger_01","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"objectAxeTrigger","path":"objects/objectAxeTrigger/objectAxeTrigger.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":5.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":336.0,"y":48.0,"resourceVersion":"1.0","name":"instAxeTrigger_02","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"objectAxeTrigger","path":"objects/objectAxeTrigger/objectAxeTrigger.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":5.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":48.0,"resourceVersion":"1.0","name":"instAxeTrigger_03","tags":[],"resourceType":"GMRInstance",},
@@ -352,7 +353,6 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_1A96392A","path":"rooms/roomDiva03/roomDiva03.yy",},
-    {"name":"inst_B7FAC34","path":"rooms/roomDiva03/roomDiva03.yy",},
     {"name":"inst_367B25AD","path":"rooms/roomDiva03/roomDiva03.yy",},
     {"name":"inst_1D303AB8","path":"rooms/roomDiva03/roomDiva03.yy",},
     {"name":"inst_71F8949A","path":"rooms/roomDiva03/roomDiva03.yy",},
@@ -415,6 +415,8 @@
     {"name":"inst_14BC9FB1","path":"rooms/roomDiva03/roomDiva03.yy",},
     {"name":"inst_510422D2","path":"rooms/roomDiva03/roomDiva03.yy",},
     {"name":"inst_408B550E","path":"rooms/roomDiva03/roomDiva03.yy",},
+    {"name":"inst_1C8430D8","path":"rooms/roomDiva03/roomDiva03.yy",},
+    {"name":"inst_4E84B99D","path":"rooms/roomDiva03/roomDiva03.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

@@ -24,5 +24,3 @@ isWalking = true;
 walkingCount = 0;
 
 lastWalkDirection = "right";
-
-instance_create_layer(x, y, "InstancesBlock", objectHellsGate);
