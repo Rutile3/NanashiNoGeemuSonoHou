@@ -87,6 +87,7 @@
     {"id":{"name":"objectAxeLeft","path":"objects/objectAxeLeft/objectAxeLeft.yy",},"order":3,},
     {"id":{"name":"createTilesBlock02Instances","path":"scripts/createTilesBlock02Instances/createTilesBlock02Instances.yy",},"order":3,},
     {"id":{"name":"spriteBackground05","path":"sprites/spriteBackground05/spriteBackground05.yy",},"order":3,},
+    {"id":{"name":"roomKey03","path":"rooms/roomKey03/roomKey03.yy",},"order":3,},
     {"id":{"name":"objectBloodAxeUp","path":"objects/objectBloodAxeUp/objectBloodAxeUp.yy",},"order":4,},
     {"id":{"name":"objectBloodAxeRight","path":"objects/objectBloodAxeRight/objectBloodAxeRight.yy",},"order":5,},
     {"id":{"name":"objectBloodAxeDown","path":"objects/objectBloodAxeDown/objectBloodAxeDown.yy",},"order":6,},
@@ -139,6 +140,7 @@
     {"name":"roomDiva03","path":"rooms/roomDiva03/roomDiva03.yy",},
     {"name":"roomKey02","path":"rooms/roomKey02/roomKey02.yy",},
     {"name":"roomAll02","path":"rooms/roomAll02/roomAll02.yy",},
+    {"name":"roomKey03","path":"rooms/roomKey03/roomKey03.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/スプライト.yy","order":0,"resourceVersion":"1.0","name":"スプライト","tags":[],"resourceType":"GMFolder",},

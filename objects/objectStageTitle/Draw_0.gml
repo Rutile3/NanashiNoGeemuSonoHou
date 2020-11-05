@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-text = "オウルスタア 01";
 text = "ディイバ 03";
-text = "キイ 02";
+text = "オウルスタア 01";
+text = "キイ 03";
 tmpX = (room_width / 2) - (string_width(text) / 2);
 tmpY = room_height / 4;
 
