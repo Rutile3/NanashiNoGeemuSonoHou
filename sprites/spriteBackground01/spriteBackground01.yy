@@ -26,6 +26,7 @@
   "frames": [
     {"compositeImage":{"FrameId":{"name":"cf857a11-de34-4141-8f86-f73f1e2f3fc1","path":"sprites/spriteBackground01/spriteBackground01.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"cf857a11-de34-4141-8f86-f73f1e2f3fc1","path":"sprites/spriteBackground01/spriteBackground01.yy",},"LayerId":{"name":"1ed54bb4-5665-4108-987b-f1e48d4b5b79","path":"sprites/spriteBackground01/spriteBackground01.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"cf857a11-de34-4141-8f86-f73f1e2f3fc1","path":"sprites/spriteBackground01/spriteBackground01.yy",},"LayerId":{"name":"1ed54bb4-5665-4108-987b-f1e48d4b5b79","path":"sprites/spriteBackground01/spriteBackground01.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spriteBackground01","path":"sprites/spriteBackground01/spriteBackground01.yy",},"resourceVersion":"1.0","name":"cf857a11-de34-4141-8f86-f73f1e2f3fc1","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
