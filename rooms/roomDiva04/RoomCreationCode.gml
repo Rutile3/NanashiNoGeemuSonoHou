@@ -1,0 +1,3 @@
+
+createTilesBlock02Instances();
+createTilesAxeInstances();
