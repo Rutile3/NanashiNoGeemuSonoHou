@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spriteBlock06_01",
-    "path": "sprites/spriteBlock06_01/spriteBlock06_01.yy",
+    "name": "spriteBlock04_16",
+    "path": "sprites/spriteBlock04_16/spriteBlock04_16.yy",
   },
   "solid": true,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/オブジェクト/block.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objectMoveDigitalBlock",
+  "name": "objectMoveBlock04_16",
   "tags": [],
   "resourceType": "GMObject",
 }
