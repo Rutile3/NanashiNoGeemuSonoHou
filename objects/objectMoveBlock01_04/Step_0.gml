@@ -14,7 +14,7 @@ if (isMeetingPlayer||
 // プレイヤーが接地している場合は、プレイヤーも移動させる。
 if (moveStartCount <= moveCount && moveCount < moveEndCount){
 	if (isMeetingPlayer) {
-		objectPlayer.x += moveVspeed;
+		objectPlayer.xAddSpeed += moveVspeed;
 		objectPlayer.y += moveHspeed;
 	}
 	
