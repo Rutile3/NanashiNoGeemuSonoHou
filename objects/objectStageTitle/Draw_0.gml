@@ -2,7 +2,7 @@
 // You can write your code in this editor
 text = "オウルスタア 01";
 text = "ディイバ 04";
-text = "キイ 14";
+text = "キイ 05";
 tmpX = (room_width / 2) - (string_width(text) / 2);
 tmpY = room_height / 4;
 
