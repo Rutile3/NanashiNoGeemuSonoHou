@@ -42,7 +42,7 @@
         "GMObject",
         "GMRoom",
       ],"resourceVersion":"1.0","name":"trigger","tags":[],"resourceType":"GMObjectProperty",},
-    {"varType":4,"value":"1","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":null,"multiselect":false,"filters":[
+    {"varType":0,"value":"1","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":null,"multiselect":false,"filters":[
         "GMTileSet",
         "GMSprite",
         "GMSound",

@@ -100,6 +100,7 @@
     {"id":{"name":"roomKey03","path":"rooms/roomKey03/roomKey03.yy",},"order":3,},
     {"id":{"name":"objectBloodAxeUp","path":"objects/objectBloodAxeUp/objectBloodAxeUp.yy",},"order":4,},
     {"id":{"name":"objectBloodAxeRight","path":"objects/objectBloodAxeRight/objectBloodAxeRight.yy",},"order":5,},
+    {"id":{"name":"roomKey06","path":"rooms/roomKey06/roomKey06.yy",},"order":8,},
     {"id":{"name":"objectBloodAxeDown","path":"objects/objectBloodAxeDown/objectBloodAxeDown.yy",},"order":6,},
     {"id":{"name":"object13Stairs01Dummy","path":"objects/object13Stairs01Dummy/object13Stairs01Dummy.yy",},"order":28,},
     {"id":{"name":"objectBloodAxeLeft","path":"objects/objectBloodAxeLeft/objectBloodAxeLeft.yy",},"order":7,},
@@ -161,6 +162,7 @@
     {"roomId":{"name":"roomKey16","path":"rooms/roomKey16/roomKey16.yy",},},
     {"roomId":{"name":"roomKey14","path":"rooms/roomKey14/roomKey14.yy",},},
     {"roomId":{"name":"roomKey05","path":"rooms/roomKey05/roomKey05.yy",},},
+    {"roomId":{"name":"roomKey06","path":"rooms/roomKey06/roomKey06.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/スプライト.yy","order":0,"resourceVersion":"1.0","name":"スプライト","tags":[],"resourceType":"GMFolder",},
