@@ -65,6 +65,7 @@
     {"id":{"name":"tilesetDigitalThorn","path":"tilesets/tilesetDigitalThorn/tilesetDigitalThorn.yy",},"order":1,},
     {"id":{"name":"soundJump","path":"sounds/soundJump/soundJump.yy",},"order":0,},
     {"id":{"name":"soundShouten","path":"sounds/soundShouten/soundShouten.yy",},"order":1,},
+    {"id":{"name":"roomKey10","path":"rooms/roomKey10/roomKey10.yy",},"order":9,},
     {"id":{"name":"soundBGM01","path":"sounds/soundBGM01/soundBGM01.yy",},"order":2,},
     {"id":{"name":"createTilesInstances","path":"scripts/createTilesInstances/createTilesInstances.yy",},"order":0,},
     {"id":{"name":"soundCoin","path":"sounds/soundCoin/soundCoin.yy",},"order":3,},
@@ -163,6 +164,7 @@
     {"roomId":{"name":"roomKey14","path":"rooms/roomKey14/roomKey14.yy",},},
     {"roomId":{"name":"roomKey05","path":"rooms/roomKey05/roomKey05.yy",},},
     {"roomId":{"name":"roomKey06","path":"rooms/roomKey06/roomKey06.yy",},},
+    {"roomId":{"name":"roomKey10","path":"rooms/roomKey10/roomKey10.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/スプライト.yy","order":0,"resourceVersion":"1.0","name":"スプライト","tags":[],"resourceType":"GMFolder",},
