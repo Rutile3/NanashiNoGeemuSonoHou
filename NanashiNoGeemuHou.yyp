@@ -76,6 +76,7 @@
     {"id":{"name":"createTilesBlockInstances","path":"scripts/createTilesBlockInstances/createTilesBlockInstances.yy",},"order":0,},
     {"id":{"name":"createTilesBlock01Instances","path":"scripts/createTilesBlock01Instances/createTilesBlock01Instances.yy",},"order":1,},
     {"id":{"name":"roomAll02","path":"rooms/roomAll02/roomAll02.yy",},"order":1,},
+    {"id":{"name":"objectMoveBlock01_06_02","path":"objects/objectMoveBlock01_06_02/objectMoveBlock01_06_02.yy",},"order":6,},
     {"id":{"name":"createTilesDigitalBlockInstances","path":"scripts/createTilesDigitalBlockInstances/createTilesDigitalBlockInstances.yy",},"order":2,},
     {"id":{"name":"tilesetBlock03","path":"tilesets/tilesetBlock03/tilesetBlock03.yy",},"order":3,},
     {"id":{"name":"objectMoveBlock02_01","path":"objects/objectMoveBlock02_01/objectMoveBlock02_01.yy",},"order":3,},
@@ -91,6 +92,7 @@
     {"id":{"name":"objectHellsGate06","path":"objects/objectHellsGate06/objectHellsGate06.yy",},"order":15,},
     {"id":{"name":"object13Stairs00","path":"objects/object13Stairs00/object13Stairs00.yy",},"order":0,},
     {"id":{"name":"object13Stairs03","path":"objects/object13Stairs03/object13Stairs03.yy",},"order":22,},
+    {"id":{"name":"spriteBlock01_06_02","path":"sprites/spriteBlock01_06_02/spriteBlock01_06_02.yy",},"order":12,},
     {"id":{"name":"objectAxeUp","path":"objects/objectAxeUp/objectAxeUp.yy",},"order":0,},
     {"id":{"name":"objectAxeRight","path":"objects/objectAxeRight/objectAxeRight.yy",},"order":1,},
     {"id":{"name":"objectAxeDown","path":"objects/objectAxeDown/objectAxeDown.yy",},"order":2,},
@@ -129,6 +131,7 @@
     {"id":{"name":"objectHellsGate01","path":"objects/objectHellsGate01/objectHellsGate01.yy",},"order":26,},
     {"id":{"name":"roomStageTemplate","path":"rooms/roomStageTemplate/roomStageTemplate.yy",},"order":3,},
     {"id":{"name":"object13Stairs00Dummy","path":"objects/object13Stairs00Dummy/object13Stairs00Dummy.yy",},"order":29,},
+    {"id":{"name":"roomKey09","path":"rooms/roomKey09/roomKey09.yy",},"order":10,},
     {"id":{"name":"roomAll01","path":"rooms/roomAll01/roomAll01.yy",},"order":0,},
   ],
   "Options": [
@@ -165,6 +168,7 @@
     {"roomId":{"name":"roomKey05","path":"rooms/roomKey05/roomKey05.yy",},},
     {"roomId":{"name":"roomKey06","path":"rooms/roomKey06/roomKey06.yy",},},
     {"roomId":{"name":"roomKey10","path":"rooms/roomKey10/roomKey10.yy",},},
+    {"roomId":{"name":"roomKey09","path":"rooms/roomKey09/roomKey09.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/スプライト.yy","order":0,"resourceVersion":"1.0","name":"スプライト","tags":[],"resourceType":"GMFolder",},
