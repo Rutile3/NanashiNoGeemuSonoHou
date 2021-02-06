@@ -16,6 +16,7 @@
     {"id":{"name":"objectAxeUp","path":"objects/objectAxeUp/objectAxeUp.yy",},"order":15,},
     {"id":{"name":"checkRight","path":"scripts/checkRight/checkRight.yy",},"order":0,},
     {"id":{"name":"objectHellsGate04","path":"objects/objectHellsGate04/objectHellsGate04.yy",},"order":19,},
+    {"id":{"name":"objectMoveAxe","path":"objects/objectMoveAxe/objectMoveAxe.yy",},"order":21,},
     {"id":{"name":"spriteBloodAxeUp","path":"sprites/spriteBloodAxeUp/spriteBloodAxeUp.yy",},"order":5,},
     {"id":{"name":"objectHellsGate02","path":"objects/objectHellsGate02/objectHellsGate02.yy",},"order":17,},
     {"id":{"name":"spriteBloodAxeRight","path":"sprites/spriteBloodAxeRight/spriteBloodAxeRight.yy",},"order":6,},
