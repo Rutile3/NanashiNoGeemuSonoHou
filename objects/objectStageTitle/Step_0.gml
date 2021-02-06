@@ -1,4 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-room_goto(roomKey19);
+if checkPressKeyAndPad(ord("Z"), gp_face1) {
+	room_goto(roomKey19);	
+}
