@@ -112,6 +112,7 @@
     {"id":{"name":"getYYYYMMDDHHMMSS","path":"scripts/getYYYYMMDDHHMMSS/getYYYYMMDDHHMMSS.yy",},"order":2,},
     {"id":{"name":"objectBlock","path":"objects/objectBlock/objectBlock.yy",},"order":0,},
     {"id":{"name":"roomDiva02","path":"rooms/roomDiva02/roomDiva02.yy",},"order":2,},
+    {"id":{"name":"roomKey19","path":"rooms/roomKey19/roomKey19.yy",},"order":12,},
     {"id":{"name":"objectMoveDigitalBlock","path":"objects/objectMoveDigitalBlock/objectMoveDigitalBlock.yy",},"order":1,},
     {"id":{"name":"objectMoveBlock01_04","path":"objects/objectMoveBlock01_04/objectMoveBlock01_04.yy",},"order":2,},
     {"id":{"name":"objectThornUp","path":"objects/objectThornUp/objectThornUp.yy",},"order":11,},
@@ -173,6 +174,7 @@
     {"roomId":{"name":"roomKey10","path":"rooms/roomKey10/roomKey10.yy",},},
     {"roomId":{"name":"roomKey09","path":"rooms/roomKey09/roomKey09.yy",},},
     {"roomId":{"name":"roomKey07","path":"rooms/roomKey07/roomKey07.yy",},},
+    {"roomId":{"name":"roomKey19","path":"rooms/roomKey19/roomKey19.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/スプライト.yy","order":0,"resourceVersion":"1.0","name":"スプライト","tags":[],"resourceType":"GMFolder",},
