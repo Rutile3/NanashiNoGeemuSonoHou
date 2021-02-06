@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "spriteAxeDown",
-    "path": "sprites/spriteAxeDown/spriteAxeDown.yy",
+    "name": "spriteBloodAxeRight",
+    "path": "sprites/spriteBloodAxeRight/spriteBloodAxeRight.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -31,7 +31,7 @@
     "path": "folders/オブジェクト/axe.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objectAxeDown",
+  "name": "objectBloodAxeRight",
   "tags": [],
   "resourceType": "GMObject",
 }

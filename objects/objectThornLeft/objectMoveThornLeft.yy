@@ -1,16 +1,13 @@
 {
   "spriteId": {
-    "name": "spriteThornRight",
-    "path": "sprites/spriteThornRight/spriteThornRight.yy",
+    "name": "spriteThornLeft",
+    "path": "sprites/spriteThornLeft/spriteThornLeft.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "objectAxe",
-    "path": "objects/objectAxe/objectAxe.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -23,7 +20,11 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"objectMoveThornLeft","path":"objects/objectMoveThornLeft/objectMoveThornLeft.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"objectMoveThornLeft","path":"objects/objectMoveThornLeft/objectMoveThornLeft.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":2,"eventType":3,"collisionObjectId":null,"parent":{"name":"objectMoveThornLeft","path":"objects/objectMoveThornLeft/objectMoveThornLeft.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [
     {"varType":5,"value":"noone","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":null,"multiselect":false,"filters":[
         "GMTileSet",
@@ -37,7 +38,7 @@
         "GMObject",
         "GMRoom",
       ],"resourceVersion":"1.0","name":"trigger","tags":[],"resourceType":"GMObjectProperty",},
-    {"varType":4,"value":"1","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":null,"multiselect":false,"filters":[
+    {"varType":4,"value":"-1","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":null,"multiselect":false,"filters":[
         "GMTileSet",
         "GMSprite",
         "GMSound",
@@ -68,7 +69,7 @@
     "path": "folders/オブジェクト/axe.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objectThornRight",
+  "name": "objectMoveThornLeft",
   "tags": [],
   "resourceType": "GMObject",
 }

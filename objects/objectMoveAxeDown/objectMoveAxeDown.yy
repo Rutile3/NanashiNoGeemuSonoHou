@@ -1,16 +1,13 @@
 {
   "spriteId": {
-    "name": "spriteThornRight",
-    "path": "sprites/spriteThornRight/spriteThornRight.yy",
+    "name": "spriteAxeDown",
+    "path": "sprites/spriteAxeDown/spriteAxeDown.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "objectAxe",
-    "path": "objects/objectAxe/objectAxe.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -23,9 +20,17 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"objectMoveAxeDown","path":"objects/objectMoveAxeDown/objectMoveAxeDown.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"objectMoveAxeDown","path":"objects/objectMoveAxeDown/objectMoveAxeDown.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":2,"eventType":3,"collisionObjectId":null,"parent":{"name":"objectMoveAxeDown","path":"objects/objectMoveAxeDown/objectMoveAxeDown.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [
-    {"varType":5,"value":"noone","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":null,"multiselect":false,"filters":[
+    {"varType":5,"value":"","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[
+        "instThornTrigger01",
+        "\"Item 1\"",
+        "\"Item 2\"",
+      ],"multiselect":true,"filters":[
         "GMTileSet",
         "GMSprite",
         "GMSound",
@@ -37,7 +42,7 @@
         "GMObject",
         "GMRoom",
       ],"resourceVersion":"1.0","name":"trigger","tags":[],"resourceType":"GMObjectProperty",},
-    {"varType":4,"value":"1","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":null,"multiselect":false,"filters":[
+    {"varType":0,"value":"1","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":null,"multiselect":false,"filters":[
         "GMTileSet",
         "GMSprite",
         "GMSound",
@@ -48,7 +53,7 @@
         "GMTimeLine",
         "GMObject",
         "GMRoom",
-      ],"resourceVersion":"1.0","name":"addX","tags":[],"resourceType":"GMObjectProperty",},
+      ],"resourceVersion":"1.0","name":"addY","tags":[],"resourceType":"GMObjectProperty",},
     {"varType":1,"value":"99999","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":null,"multiselect":false,"filters":[
         "GMTileSet",
         "GMSprite",
@@ -68,7 +73,7 @@
     "path": "folders/オブジェクト/axe.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objectThornRight",
+  "name": "objectMoveAxeDown",
   "tags": [],
   "resourceType": "GMObject",
 }
