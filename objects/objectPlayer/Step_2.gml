@@ -2,9 +2,6 @@
 // You can write your code in this editor
 
 if (isDeath) {
-	sprite_index = spriteNanashiAngel;
-	y += angelAddY;
-	deathCount++;
 	return;
 }
 
