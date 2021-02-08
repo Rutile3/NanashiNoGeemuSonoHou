@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "axe",
-    "path": "folders/スプライト/axe.yy",
+    "path": "folders/スプライト/stage/axe.yy",
   },
   "resourceVersion": "1.0",
   "name": "spriteBloodAxeRight",

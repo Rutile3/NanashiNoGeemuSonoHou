@@ -41,7 +41,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "trigger",
-    "path": "folders/オブジェクト/trigger.yy",
+    "path": "folders/オブジェクト/stage/trigger.yy",
   },
   "resourceVersion": "1.0",
   "name": "objectThornTrigger",

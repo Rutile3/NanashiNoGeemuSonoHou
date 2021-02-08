@@ -69,7 +69,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "axe",
-    "path": "folders/オブジェクト/axe.yy",
+    "path": "folders/オブジェクト/stage/axe.yy",
   },
   "resourceVersion": "1.0",
   "name": "objectThornDown",

@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "background",
-    "path": "folders/スプライト/background.yy",
+    "path": "folders/スプライト/stage/background.yy",
   },
   "resourceVersion": "1.0",
   "name": "spriteBackground05",

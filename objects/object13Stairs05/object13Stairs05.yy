@@ -28,7 +28,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "etc",
-    "path": "folders/オブジェクト/etc.yy",
+    "path": "folders/オブジェクト/stage/etc.yy",
   },
   "resourceVersion": "1.0",
   "name": "object13Stairs05",

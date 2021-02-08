@@ -30,8 +30,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "オブジェクト",
-    "path": "folders/オブジェクト.yy",
+    "name": "nanashi",
+    "path": "folders/オブジェクト/stage/nanashi.yy",
   },
   "resourceVersion": "1.0",
   "name": "objectPlayer",

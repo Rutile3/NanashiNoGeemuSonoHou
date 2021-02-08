@@ -90,7 +90,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "block",
-    "path": "folders/オブジェクト/block.yy",
+    "path": "folders/オブジェクト/stage/block.yy",
   },
   "resourceVersion": "1.0",
   "name": "objectMoveBlock01_04",

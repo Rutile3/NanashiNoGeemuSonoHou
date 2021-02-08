@@ -26,7 +26,6 @@
   "frames": [
     {"compositeImage":{"FrameId":{"name":"c4b37995-8069-4a08-9be4-56c014cda599","path":"sprites/spriteBlock03_04/spriteBlock03_04.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"c4b37995-8069-4a08-9be4-56c014cda599","path":"sprites/spriteBlock03_04/spriteBlock03_04.yy",},"LayerId":{"name":"dfddef91-12e8-4dc1-bfe4-15c37ce1bb1c","path":"sprites/spriteBlock03_04/spriteBlock03_04.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"c4b37995-8069-4a08-9be4-56c014cda599","path":"sprites/spriteBlock03_04/spriteBlock03_04.yy",},"LayerId":{"name":"dfddef91-12e8-4dc1-bfe4-15c37ce1bb1c","path":"sprites/spriteBlock03_04/spriteBlock03_04.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spriteBlock03_04","path":"sprites/spriteBlock03_04/spriteBlock03_04.yy",},"resourceVersion":"1.0","name":"c4b37995-8069-4a08-9be4-56c014cda599","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
@@ -70,7 +69,7 @@
   ],
   "parent": {
     "name": "block",
-    "path": "folders/スプライト/block.yy",
+    "path": "folders/スプライト/stage/block.yy",
   },
   "resourceVersion": "1.0",
   "name": "spriteBlock03_04",

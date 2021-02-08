@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "オブジェクト",
-    "path": "folders/オブジェクト.yy",
+    "name": "stage",
+    "path": "folders/オブジェクト/stage.yy",
   },
   "resourceVersion": "1.0",
   "name": "objectStageTitle",

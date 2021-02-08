@@ -26,7 +26,6 @@
   "frames": [
     {"compositeImage":{"FrameId":{"name":"e1e8c3a9-a58d-4b56-9963-1da34f3f31b7","path":"sprites/spriteBackground02/spriteBackground02.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"e1e8c3a9-a58d-4b56-9963-1da34f3f31b7","path":"sprites/spriteBackground02/spriteBackground02.yy",},"LayerId":{"name":"3120fde0-2dac-438f-ac22-10cab442487c","path":"sprites/spriteBackground02/spriteBackground02.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"e1e8c3a9-a58d-4b56-9963-1da34f3f31b7","path":"sprites/spriteBackground02/spriteBackground02.yy",},"LayerId":{"name":"3120fde0-2dac-438f-ac22-10cab442487c","path":"sprites/spriteBackground02/spriteBackground02.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spriteBackground02","path":"sprites/spriteBackground02/spriteBackground02.yy",},"resourceVersion":"1.0","name":"e1e8c3a9-a58d-4b56-9963-1da34f3f31b7","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
@@ -70,7 +69,7 @@
   ],
   "parent": {
     "name": "background",
-    "path": "folders/スプライト/background.yy",
+    "path": "folders/スプライト/stage/background.yy",
   },
   "resourceVersion": "1.0",
   "name": "spriteBackground02",

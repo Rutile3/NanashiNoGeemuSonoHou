@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "etc",
-    "path": "folders/スプライト/etc.yy",
+    "path": "folders/スプライト/stage/etc.yy",
   },
   "resourceVersion": "1.0",
   "name": "spriteHellsGate01",

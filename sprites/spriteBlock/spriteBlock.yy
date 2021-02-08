@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "block",
-    "path": "folders/スプライト/block.yy",
+    "path": "folders/スプライト/stage/block.yy",
   },
   "resourceVersion": "1.0",
   "name": "spriteBlock",
