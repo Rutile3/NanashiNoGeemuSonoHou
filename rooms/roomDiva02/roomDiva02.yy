@@ -131,7 +131,7 @@
   },
   "parent": {
     "name": "diva",
-    "path": "folders/ルーム/Stage/diva.yy",
+    "path": "folders/ルーム/stage/diva.yy",
   },
   "resourceVersion": "1.0",
   "name": "roomDiva02",

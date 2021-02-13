@@ -630,7 +630,7 @@
   },
   "parent": {
     "name": "key",
-    "path": "folders/ルーム/Stage/key.yy",
+    "path": "folders/ルーム/stage/key.yy",
   },
   "resourceVersion": "1.0",
   "name": "roomKey19",

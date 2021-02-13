@@ -48,8 +48,8 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "ルーム",
-    "path": "folders/ルーム.yy",
+    "name": "stage",
+    "path": "folders/ルーム/stage.yy",
   },
   "resourceVersion": "1.0",
   "name": "roomStageTitle",
