@@ -49,7 +49,7 @@
   },
   "parent": {
     "name": "block",
-    "path": "folders/タイルセット/block.yy",
+    "path": "folders/タイルセット/stage/block.yy",
   },
   "resourceVersion": "1.0",
   "name": "tilesetBlock06",

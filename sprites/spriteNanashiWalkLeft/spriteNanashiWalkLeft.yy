@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "nanashi",
-    "path": "folders/スプライト/stage/nanashi.yy",
+    "path": "folders/スプライト/nanashi.yy",
   },
   "resourceVersion": "1.0",
   "name": "spriteNanashiWalkLeft",

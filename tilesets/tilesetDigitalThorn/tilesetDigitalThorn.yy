@@ -49,7 +49,7 @@
   },
   "parent": {
     "name": "axe",
-    "path": "folders/タイルセット/axe.yy",
+    "path": "folders/タイルセット/stage/axe.yy",
   },
   "resourceVersion": "1.0",
   "name": "tilesetDigitalThorn",

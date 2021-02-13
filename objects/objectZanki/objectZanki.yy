@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spriteNanashiFront",
-    "path": "sprites/spriteNanashiFront/spriteNanashiFront.yy",
+    "name": "spriteNanashiFront01",
+    "path": "sprites/spriteNanashiFront01/spriteNanashiFront01.yy",
   },
   "solid": false,
   "visible": true,

@@ -49,7 +49,7 @@
   },
   "parent": {
     "name": "background",
-    "path": "folders/タイルセット/background.yy",
+    "path": "folders/タイルセット/stage/background.yy",
   },
   "resourceVersion": "1.0",
   "name": "tilesetBackground05",

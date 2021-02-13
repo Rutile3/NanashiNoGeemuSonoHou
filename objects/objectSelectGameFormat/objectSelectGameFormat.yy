@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spriteSelectGameFormat",
-    "path": "sprites/spriteSelectGameFormat/spriteSelectGameFormat.yy",
+    "name": "spriteNanashiStopRight",
+    "path": "sprites/spriteNanashiStopRight/spriteNanashiStopRight.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,6 +22,7 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"objectSelectGameFormat","path":"objects/objectSelectGameFormat/objectSelectGameFormat.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"objectSelectGameFormat","path":"objects/objectSelectGameFormat/objectSelectGameFormat.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
