@@ -30,5 +30,8 @@ else if checkPressDown() {
 
 
 // 描画位置
-y = 156 - global.selectFormat * 24;
+y = 148 - global.selectFormat * 24;
 
+// 歩かせる
+isWalk = (count div 40) % 2 == 0;
+sprite_index = isWalk ? spriteNanashiWalkRight : spriteNanashiStopRight;
