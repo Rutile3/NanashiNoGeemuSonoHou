@@ -15,7 +15,7 @@ if (x % floorWidth != 0 || y % floorHeight != 0) {
 }
 
 // タイトルに戻る
-if place_meeting(x, y, objectGotoTitle) || checkKeyAndPad(vk_escape, gp_select) {
+if place_meeting(x, y, objectGotoTitle) || checkPressKeyAndPad(vk_escape, gp_select) {
 	global.selectStagePlayerX = 224;
 	global.selectStagePlayerY = 352;
 	room_goto(roomGameTitle);
@@ -23,7 +23,7 @@ if place_meeting(x, y, objectGotoTitle) || checkKeyAndPad(vk_escape, gp_select) 
 }
 
 // ステージセレクト
-if checkKeyAndPad(ord("Z"), gp_face1) {
+if checkPressKeyAndPad(ord("Z"), gp_face1) {
 	window = noone;
 	switch angle {
 		case PlayerAngle.left:

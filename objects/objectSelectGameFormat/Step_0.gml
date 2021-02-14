@@ -4,13 +4,13 @@
 // 決定
 if checkPressKeyAndPad(ord("Z"), gp_face1) {
 	switch global.selectFormat {
-	case  GameFormat.diva:
+	case GameFormat.diva:
 		room_goto(roomStageSelectDiva);	
 		break;
-	case  GameFormat.key:
+	case GameFormat.key:
 		room_goto(roomStageSelectDiva);	
 		break;
-	case  GameFormat.allStar:
+	case GameFormat.allStar:
 		room_goto(roomStageSelectDiva);	
 		break;
 	}
