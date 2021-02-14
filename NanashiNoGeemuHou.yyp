@@ -76,6 +76,7 @@
     {"id":{"name":"sprite13Stairs01","path":"sprites/sprite13Stairs01/sprite13Stairs01.yy",},"order":0,},
     {"id":{"name":"objectThornRight","path":"objects/objectThornRight/objectThornRight.yy",},"order":19,},
     {"id":{"name":"spriteAxeTrigger","path":"sprites/spriteAxeTrigger/spriteAxeTrigger.yy",},"order":5,},
+    {"id":{"name":"selectStage","path":"scripts/selectStage/selectStage.yy",},"order":1,},
     {"id":{"name":"spriteCoin","path":"sprites/spriteCoin/spriteCoin.yy",},"order":4,},
     {"id":{"name":"object13Stairs04","path":"objects/object13Stairs04/object13Stairs04.yy",},"order":6,},
     {"id":{"name":"tilesetAxe","path":"tilesets/tilesetAxe/tilesetAxe.yy",},"order":0,},

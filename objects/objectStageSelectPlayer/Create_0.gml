@@ -19,6 +19,8 @@ speeds[? PlayerState.stop] = 0;
 speeds[? PlayerState.walk] = 1;
 speeds[? PlayerState.run]  = 2;
 
+x = global.selectStagePlayerX;
+y = global.selectStagePlayerY;
 angle = PlayerAngle.up;
 state = PlayerState.stop;
 

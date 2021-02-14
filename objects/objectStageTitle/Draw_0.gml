@@ -1,8 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-text = "ディイバ 04";
-text = "オウルスタア 02";
-text = "キイ 19";
+text = global.selectStageTitle[? global.selectStage];
 tmpX = (room_width / 2) - (string_width(text) / 2);
 tmpY = room_height / 4;
 
