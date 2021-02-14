@@ -15,7 +15,7 @@ if (x % floorWidth != 0 || y % floorHeight != 0) {
 }
 
 // タイトルに戻る
-if place_meeting(x, y, objectGotoTitle) {
+if place_meeting(x, y, objectGotoTitle) || checkKeyAndPad(vk_escape, gp_select) {
 	room_goto(roomGameTitle);
 	return;
 }
