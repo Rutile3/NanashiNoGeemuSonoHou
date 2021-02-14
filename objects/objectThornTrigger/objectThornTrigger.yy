@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spriteCollision01",
-    "path": "sprites/spriteCollision01/spriteCollision01.yy",
+    "name": "spriteAxeTrigger",
+    "path": "sprites/spriteAxeTrigger/spriteAxeTrigger.yy",
   },
   "solid": false,
   "visible": false,

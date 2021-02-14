@@ -3,7 +3,7 @@
     "name": "spriteNanashiFront01",
     "path": "sprites/spriteNanashiFront01/spriteNanashiFront01.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,

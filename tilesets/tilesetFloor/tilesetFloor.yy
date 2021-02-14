@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spriteFloor",
-    "path": "sprites/spriteFloor/spriteFloor.yy",
+    "name": "spriteFloorTile",
+    "path": "sprites/spriteFloorTile/spriteFloorTile.yy",
   },
   "tileWidth": 16,
   "tileHeight": 16,

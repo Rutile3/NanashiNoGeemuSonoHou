@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "etc",
-    "path": "folders/オブジェクト/stage/etc.yy",
+    "name": "HellsGate",
+    "path": "folders/オブジェクト/stage/HellsGate.yy",
   },
   "resourceVersion": "1.0",
   "name": "objectHellsGate00",

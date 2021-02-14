@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sprite13Stairs01",
-    "path": "sprites/sprite13Stairs01/sprite13Stairs01.yy",
+    "name": "spriteGotoTitle",
+    "path": "sprites/spriteGotoTitle/spriteGotoTitle.yy",
   },
   "solid": false,
   "visible": true,
@@ -11,7 +11,7 @@
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
-  "physicsGroup": 0,
+  "physicsGroup": 1,
   "physicsDensity": 0.5,
   "physicsRestitution": 0.1,
   "physicsLinearDamping": 0.1,
@@ -24,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "13Stairs",
-    "path": "folders/オブジェクト/stage/13Stairs.yy",
+    "name": "stageSelect",
+    "path": "folders/オブジェクト/stageSelect.yy",
   },
   "resourceVersion": "1.0",
-  "name": "object13Stairs00Dummy",
+  "name": "objectGotoTitle",
   "tags": [],
   "resourceType": "GMObject",
 }
