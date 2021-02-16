@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if (isDeath) {
+if isDeath || isFadeOut {
 	return;
 }
 
@@ -44,7 +44,6 @@ if (!place_free(x + xAddSpeed, y)) {
 	}
 	
 }
-
 
 
 if (isYAddSpeed) {

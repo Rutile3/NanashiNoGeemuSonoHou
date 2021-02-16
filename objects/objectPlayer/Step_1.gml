@@ -6,6 +6,10 @@ if (isDeath) {
 	return;
 }
 
+if isFadeOut {
+	return;
+}
+
 isXAddSpeed = true;
 isYAddSpeed = true;
 xAddSpeed = 0;

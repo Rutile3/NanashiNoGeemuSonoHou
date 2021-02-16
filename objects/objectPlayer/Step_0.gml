@@ -1,19 +1,17 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+if isFadeOut {
+	return;	
+}
+
 // 中断
-if checkPressKeyAndPad(vk_escape, gp_select) {	
-	switch global.selectFormat {
-	case GameFormat.diva:
-		room_goto(roomStageSelectDiva);	
-		break;
-	case GameFormat.key:
-		room_goto(roomStageSelectDiva);	
-		break;
-	case GameFormat.allStar:
-		room_goto(roomStageSelectDiva);	
-		break;
+if checkPressKeyAndPad(vk_escape, gp_select) {
+	with instance_create_depth(x, y, 0, objectFadeOut) {
+		roomName = global.gameFormatRoom[? global.selectFormat];
 	}
+	isFadeOut = true;
+	return;
 }
 
 // ジャンプとコンティニュー

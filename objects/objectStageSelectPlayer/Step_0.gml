@@ -1,6 +1,11 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+// フェードアウト中は操作を受け付けない
+if isFadeOut {
+	return;
+}
+
 // 移動
 addSpeed = speeds[? state];
 x -= angle == PlayerAngle.left  ? addSpeed : 0;
@@ -16,34 +21,31 @@ if (x % floorWidth != 0 || y % floorHeight != 0) {
 
 // タイトルに戻る
 if place_meeting(x, y, objectGotoTitle) || checkPressKeyAndPad(vk_escape, gp_select) {
-	global.selectStagePlayerX = 224;
-	global.selectStagePlayerY = 352;
-	room_goto(roomGameTitle);
+	with instance_create_depth(x, y, 0, objectFadeOut) {
+		roomName = roomGameTitle;
+	}
+	isFadeOut = true;
 	return;
 }
 
 // ステージセレクト
 if checkPressKeyAndPad(ord("Z"), gp_face1) {
-	window = noone;
-	switch angle {
-		case PlayerAngle.left:
-			window = instance_place(x - floorWidth, y, objectWindow);
-			break;
-		case PlayerAngle.right:
-			window = instance_place(x + floorWidth, y, objectWindow);
-			break;
-		case PlayerAngle.up:
-			window = instance_place(x, y - floorHeight, objectWindow);
-			break;
-		case PlayerAngle.down:
-			window = instance_place(x, y + floorHeight, objectWindow);
-			break;
-	}
+	placeX = 0;
+	placeY = 0
+	placeX -= angle == PlayerAngle.left  ? floorWidth : 0;
+	placeX += angle == PlayerAngle.right ? floorWidth : 0;
+	placeY -= angle == PlayerAngle.up    ? floorHeight : 0;
+	placeY += angle == PlayerAngle.down  ? floorHeight : 0;
+	window = instance_place(x + placeX, y + placeY, objectWindow);
 	if window != noone {
 		global.selectStagePlayerX = x;
 		global.selectStagePlayerY = y;
 		global.selectStage = window.selectStage;
-		room_goto(roomStageTitle);
+		with instance_create_depth(x, y, 0, objectFadeOut) {
+			roomName = roomStageTitle;
+		}
+		isFadeOut = true;
+		return;
 	}
 }
 

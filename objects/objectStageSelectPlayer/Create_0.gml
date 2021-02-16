@@ -29,3 +29,5 @@ floorWidth = tilemap_get_tile_width(floorId);
 floorHeight = tilemap_get_tile_height(floorId);
 
 count = 0;
+
+isFadeOut = false;
