@@ -8,6 +8,7 @@
     {"id":{"name":"spriteWall","path":"sprites/spriteWall/spriteWall.yy",},"order":5,},
     {"id":{"name":"spriteBlock05Tile","path":"sprites/spriteBlock05Tile/spriteBlock05Tile.yy",},"order":8,},
     {"id":{"name":"objectAxeDown","path":"objects/objectAxeDown/objectAxeDown.yy",},"order":16,},
+    {"id":{"name":"soundStageBGM01","path":"sounds/soundStageBGM01/soundStageBGM01.yy",},"order":5,},
     {"id":{"name":"objectTitleKey","path":"objects/objectTitleKey/objectTitleKey.yy",},"order":2,},
     {"id":{"name":"objectMoveBlock04_16","path":"objects/objectMoveBlock04_16/objectMoveBlock04_16.yy",},"order":4,},
     {"id":{"name":"object13Stairs02","path":"objects/object13Stairs02/object13Stairs02.yy",},"order":4,},
