@@ -25,6 +25,7 @@ if place_meeting(x, y, objectGotoTitle) || checkPressKeyAndPad(vk_escape, gp_sel
 		roomName = roomGameTitle;
 	}
 	isFadeOut = true;
+	audio_stop_sound(soundStageSelectBGM01);
 	return;
 }
 
@@ -45,6 +46,7 @@ if checkPressKeyAndPad(ord("Z"), gp_face1) {
 			roomName = roomStageTitle;
 		}
 		isFadeOut = true;
+		audio_stop_sound(soundStageSelectBGM01);
 		return;
 	}
 }

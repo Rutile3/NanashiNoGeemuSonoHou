@@ -1,6 +1,6 @@
 {
   "compression": 0,
-  "volume": 0.3,
+  "volume": 1.0,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "soundBGM01",
-  "duration": 141.438354,
+  "soundFile": "soundStageSelectBGM01.mp3",
+  "duration": 131.021,
   "parent": {
     "name": "サウンド",
     "path": "folders/サウンド.yy",
   },
   "resourceVersion": "1.0",
-  "name": "soundBGM01",
+  "name": "soundStageSelectBGM01",
   "tags": [],
   "resourceType": "GMSound",
 }

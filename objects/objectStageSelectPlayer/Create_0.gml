@@ -31,3 +31,5 @@ floorHeight = tilemap_get_tile_height(floorId);
 count = 0;
 
 isFadeOut = false;
+
+audio_play_sound(soundStageSelectBGM01, 1, 1);
