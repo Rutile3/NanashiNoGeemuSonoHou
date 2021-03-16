@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "soundStageSelectBGM01.ogg",
-  "duration": 130.981415,
+  "soundFile": "soundStageBGM03.ogg",
+  "duration": 32.50777,
   "parent": {
     "name": "サウンド",
     "path": "folders/サウンド.yy",
   },
   "resourceVersion": "1.0",
-  "name": "soundStageSelectBGM01",
+  "name": "soundStageBGM03",
   "tags": [],
   "resourceType": "GMSound",
 }

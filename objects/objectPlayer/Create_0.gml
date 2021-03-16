@@ -27,4 +27,5 @@ lastWalkDirection = "right";
 
 isFadeOut = false;
 
-instance_create_depth(x, y, 0, objectFadeIn)
+instance_create_depth(x, y, 0, objectFadeIn);
+instance_create_depth(x, y, 0, objectStageBGM);

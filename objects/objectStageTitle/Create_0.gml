@@ -3,7 +3,4 @@
 
 isFadeOut = false;
 
-bgm = global.selectStageBGM[? global.selectStage];
-if !audio_is_playing(bgm) {
-	audio_play_sound(bgm, 1, 1);	
-}
+instance_create_depth(x, y, 0, objectStageBGM);

@@ -10,8 +10,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "soundStageBGM01.mp3",
-  "duration": 8.021,
+  "soundFile": "soundStageBGM01.ogg",
+  "duration": 7.973958,
   "parent": {
     "name": "サウンド",
     "path": "folders/サウンド.yy",

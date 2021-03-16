@@ -11,7 +11,7 @@ if checkPressKeyAndPad(vk_escape, gp_select) {
 		roomName = global.gameFormatRoom[? global.selectFormat];
 	}
 	isFadeOut = true;
-	audio_stop_sound(global.selectStageBGM[? global.selectStage]);
+	audio_stop_sound(objectStageBGM.index);
 	return;
 }
 
