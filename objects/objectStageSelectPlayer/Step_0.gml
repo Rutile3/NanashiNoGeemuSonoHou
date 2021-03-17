@@ -26,6 +26,7 @@ if place_meeting(x, y, objectGotoTitle) || checkPressKeyAndPad(vk_escape, gp_sel
 	}
 	isFadeOut = true;
 	audio_stop_sound(soundStageSelectBGM01);
+	audio_play_sound(soundCancel, 2, false);
 	return;
 }
 

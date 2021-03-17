@@ -12,6 +12,7 @@ if checkPressKeyAndPad(vk_escape, gp_select) {
 	}
 	isFadeOut = true;
 	audio_stop_sound(objectStageBGM.index);
+	audio_play_sound(soundCancel, 1, false);
 	return;
 }
 

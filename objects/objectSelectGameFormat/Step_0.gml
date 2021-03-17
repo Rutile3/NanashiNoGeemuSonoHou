@@ -14,6 +14,8 @@ if checkPressKeyAndPad(ord("Z"), gp_face1) {
 	with instance_create_depth(x, y, 0, objectFadeOut) {
 		roomName = other.roomName;
 	}
+	audio_play_sound(soundDecision, 2, false);
+	return;
 }
 
 // 上下移動
