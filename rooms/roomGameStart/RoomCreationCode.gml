@@ -2,7 +2,7 @@
 //グローバル変数の初期化
 global.zanki = 0;
 global.selectFormat = GameFormat.diva;
-global.selectStage = SelectStage.key08;
+global.selectStage = SelectStage.key11;
 global.selectStagePlayerX = 224;
 global.selectStagePlayerY = 352;
 
