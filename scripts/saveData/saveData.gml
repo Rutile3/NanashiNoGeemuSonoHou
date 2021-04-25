@@ -1,4 +1,6 @@
 
+global.zanki = 0;
+	
 global.stageClearData = ds_map_create();
 global.stageClearData[? SelectStage.diva00] = false;
 global.stageClearData[? SelectStage.diva01] = false;

@@ -5,6 +5,7 @@ function writeSaveData(){
 	ini_open("save.ini");
 
 	// ds_mapを文字列として書き込み
+	ini_write_string("saveData", "zanki", global.zanki);
 	ini_write_string("saveData", "stageClearData", ds_map_write(global.stageClearData));
 	ini_write_string("saveData", "getCoinData", ds_map_write(global.getCoinData));
 
