@@ -4,14 +4,14 @@ function readSaveData(){
 	// INIファイルを開く
 	ini_open("save.ini");
 
-	// "player" セクションの "param" キーの値を取り出す
-	// ds_map文字列表現から読み取り可能な形式に変換.
+	// "saveData" セクションの "zanki" キーの値を取り出す
 	var zanki = ini_read_string("saveData", "zanki", "");
 	if zanki != "" {
 		global.zanki = real(zanki);
 	}
 	var stageClearData = ini_read_string("saveData", "stageClearData", "");
 	if stageClearData != "" {
+		// ds_map文字列表現から読み取り可能な形式に変換.
 		ds_map_read(global.stageClearData, stageClearData);
 	}
 	var getCoinData = ini_read_string("saveData", "getCoinData", "");
@@ -19,6 +19,6 @@ function readSaveData(){
 		ds_map_read(global.getCoinData, getCoinData);
 	}
 
-	// INIファイルを閉じる
+	// Iniファイルを閉じる
 	ini_close();
 }
