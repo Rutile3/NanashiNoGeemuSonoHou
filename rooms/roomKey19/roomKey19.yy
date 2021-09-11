@@ -18,6 +18,9 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"object13Stairs00Dummy","path":"objects/object13Stairs00Dummy/object13Stairs00Dummy.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":240.0,"y":2320.0,"resourceVersion":"1.0","name":"inst_3873F621","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"objectPlayer","path":"objects/objectPlayer/objectPlayer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.0,"y":96.0,"resourceVersion":"1.0","name":"inst_BE9C203","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"object13Stairs01","path":"objects/object13Stairs01/object13Stairs01.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":256.0,"y":2432.0,"resourceVersion":"1.0","name":"inst_3392BD9C","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"blockSpriteTile","path":"objects/objectRoomStage/objectRoomStage.yy",},"objectId":{"name":"objectRoomStage","path":"objects/objectRoomStage/objectRoomStage.yy",},"value":"spriteBlock01Tile","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"objectRoomStage","path":"objects/objectRoomStage/objectRoomStage.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":-16.0,"resourceVersion":"1.0","name":"inst_17E723B5","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"InstancesPlayer","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[
@@ -606,6 +609,7 @@
     {"name":"inst_7D73F9A6","path":"rooms/roomKey19/roomKey19.yy",},
     {"name":"inst_7F5B3BA1","path":"rooms/roomKey19/roomKey19.yy",},
     {"name":"inst_3392BD9C","path":"rooms/roomKey19/roomKey19.yy",},
+    {"name":"inst_17E723B5","path":"rooms/roomKey19/roomKey19.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

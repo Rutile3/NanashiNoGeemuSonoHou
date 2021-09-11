@@ -18,6 +18,9 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"objectHellsGate01","path":"objects/objectHellsGate01/objectHellsGate01.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":144.0,"resourceVersion":"1.0","name":"inst_2D5CDF23","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"objectCoin","path":"objects/objectCoin/objectCoin.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":80.0,"resourceVersion":"1.0","name":"inst_4DF8CD41","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"objectPlayer","path":"objects/objectPlayer/objectPlayer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":144.0,"resourceVersion":"1.0","name":"inst_30BBB1B5","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"blockSpriteTile","path":"objects/objectRoomStage/objectRoomStage.yy",},"objectId":{"name":"objectRoomStage","path":"objects/objectRoomStage/objectRoomStage.yy",},"value":"spriteBlock02Tile","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"objectRoomStage","path":"objects/objectRoomStage/objectRoomStage.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":-16.0,"resourceVersion":"1.0","name":"inst_5104E8CF","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"InstancesPlayer","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"objectMoveAxeDown","path":"objects/objectMoveAxeDown/objectMoveAxeDown.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":48.0,"y":64.0,"resourceVersion":"1.0","name":"inst_285FDAEC","tags":[],"resourceType":"GMRInstance",},
@@ -176,6 +179,7 @@
     {"name":"diva04Trigger07","path":"rooms/roomDiva04/roomDiva04.yy",},
     {"name":"inst_7BCFF76D","path":"rooms/roomDiva04/roomDiva04.yy",},
     {"name":"diva04Trigger09","path":"rooms/roomDiva04/roomDiva04.yy",},
+    {"name":"inst_5104E8CF","path":"rooms/roomDiva04/roomDiva04.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

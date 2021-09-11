@@ -1,3 +1,5 @@
+/// @description Insert description here
+// You can write your code in this editor
 
 //グローバル変数の初期化
 global.selectFormat = GameFormat.diva;
@@ -14,7 +16,7 @@ height = window_get_height() * scale;
 window_set_size(width, height);
 window_center();
 
-// room_goto(roomGameTitle);
+room_goto(roomGameTitle);
 
-global.selectStage = SelectStage.all02;
-room_goto(roomStageTitle);
+// global.selectStage = SelectStage.all02;
+// room_goto(roomStageTitle);

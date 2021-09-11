@@ -17,6 +17,9 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"objectHellsGate00","path":"objects/objectHellsGate00/objectHellsGate00.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1840.0,"y":2576.0,"resourceVersion":"1.0","name":"inst_1A1F32A6","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"objectPlayer","path":"objects/objectPlayer/objectPlayer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1840.0,"y":2576.0,"resourceVersion":"1.0","name":"inst_732DD6F0","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"object13Stairs00","path":"objects/object13Stairs00/object13Stairs00.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2512.0,"y":2016.0,"resourceVersion":"1.0","name":"inst_27B58865","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"blockSpriteTile","path":"objects/objectRoomStage/objectRoomStage.yy",},"objectId":{"name":"objectRoomStage","path":"objects/objectRoomStage/objectRoomStage.yy",},"value":"spriteBlock01Tile","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"objectRoomStage","path":"objects/objectRoomStage/objectRoomStage.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":-16.0,"resourceVersion":"1.0","name":"inst_6A158B72","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":8,"gridY":16,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"InstancesPlayer","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[
@@ -1564,7 +1567,7 @@
     {"spriteId":null,"colour":4278190080,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":900,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
   "inheritLayers": false,
-  "creationCodeFile": "${project_dir}/rooms/roomKey01/RoomCreationCode.gml",
+  "creationCodeFile": "${project_dir}/rooms/roomAll02/RoomCreationCode.gml",
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_6687BC55","path":"rooms/roomAll02/roomAll02.yy",},
@@ -1688,6 +1691,7 @@
     {"name":"inst_398B3C36","path":"rooms/roomAll02/roomAll02.yy",},
     {"name":"inst_D7B0450","path":"rooms/roomAll02/roomAll02.yy",},
     {"name":"inst_4EEADABC","path":"rooms/roomAll02/roomAll02.yy",},
+    {"name":"inst_6A158B72","path":"rooms/roomAll02/roomAll02.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

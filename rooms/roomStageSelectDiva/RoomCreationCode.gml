@@ -1,2 +1,0 @@
-initWindow();
-createTilesWallInstances();
