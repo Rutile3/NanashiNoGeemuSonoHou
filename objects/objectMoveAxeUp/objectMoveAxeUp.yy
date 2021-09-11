@@ -29,8 +29,8 @@
     {"propertyId":{"name":"addY","path":"objects/objectMoveAxe/objectMoveAxe.yy",},"objectId":{"name":"objectMoveAxe","path":"objects/objectMoveAxe/objectMoveAxe.yy",},"value":"-1","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
-    "name": "axe",
-    "path": "folders/オブジェクト/stage/axe.yy",
+    "name": "move",
+    "path": "folders/オブジェクト/stage/axe/move.yy",
   },
   "resourceVersion": "1.0",
   "name": "objectMoveAxeUp",

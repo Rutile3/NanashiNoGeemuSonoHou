@@ -1,7 +1,7 @@
 
 //グローバル変数の初期化
 global.selectFormat = GameFormat.diva;
-global.selectStage = SelectStage.key11;
+global.selectStage = SelectStage.diva00;
 global.selectStagePlayerX = 224;
 global.selectStagePlayerY = 352;
 
@@ -14,5 +14,7 @@ height = window_get_height() * scale;
 window_set_size(width, height);
 window_center();
 
-room_goto(roomGameTitle);
-// room_goto(roomStageTitle);
+// room_goto(roomGameTitle);
+
+global.selectStage = SelectStage.all02;
+room_goto(roomStageTitle);

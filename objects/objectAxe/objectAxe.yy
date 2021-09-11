@@ -18,13 +18,13 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"objectAxe","path":"objects/objectAxe/objectAxe.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "axe",
-    "path": "folders/オブジェクト/stage/axe.yy",
+    "name": "static",
+    "path": "folders/オブジェクト/stage/axe/static.yy",
   },
   "resourceVersion": "1.0",
   "name": "objectAxe",

@@ -1,4 +1,4 @@
-/// @func checkKeyAndPad(tilemapId, layerAndObject)
+/// @func checkKeyAndPad(key, button)
 /// @param {Real} key
 /// @param {Real} button
 function checkKeyAndPad(key, button){

@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "axe",
-    "path": "folders/オブジェクト/stage/axe.yy",
+    "name": "static",
+    "path": "folders/オブジェクト/stage/axe/static.yy",
   },
   "resourceVersion": "1.0",
   "name": "objectBloodAxeLeft",

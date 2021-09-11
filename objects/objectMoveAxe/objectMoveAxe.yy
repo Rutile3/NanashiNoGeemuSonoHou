@@ -33,8 +33,8 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "axe",
-    "path": "folders/オブジェクト/stage/axe.yy",
+    "name": "move",
+    "path": "folders/オブジェクト/stage/axe/move.yy",
   },
   "resourceVersion": "1.0",
   "name": "objectMoveAxe",
