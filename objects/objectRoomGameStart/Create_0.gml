@@ -10,11 +10,19 @@ global.selectStagePlayerY = 352;
 // セーブデータの初期化
 readSaveData()
 
-scale = 5;
-width  = window_get_width()  * scale;
-height = window_get_height() * scale;
-window_set_size(width, height);
-window_center();
+// 画面を5倍に
+var scale = 5;
+var prev_w = room_width;
+var prev_h = room_height;
+var window_w = room_width * scale;
+var window_h = room_height * scale;
+window_set_size(window_w, window_h);
+
+// 手動で画面中央に寄せる
+// window_center()は描画前のため使えないので
+var center_x = window_get_x() - (window_w - prev_w) / 2;
+var center_y = window_get_y() - (window_h - prev_h) / 2;
+window_set_position(center_x, center_y);
 
 room_goto(roomGameTitle);
 
